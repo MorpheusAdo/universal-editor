@@ -2,7 +2,7 @@
   "mappings": [
     "/content/universal-editor-site/:/",
     "/content/universal-editor-site/configuration:/.helix/config.json",
-    "/content/universal-editor/metadata:/metadata.json"
+    "/content/aem-boilerplate/metadata:/metadata.json"
   ],
   "includes": [
     "/content/universal-editor-site/"
